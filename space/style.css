@@ -844,6 +844,10 @@ transform: rotate(-30deg);
     border: 0px solid red;
   }
 
+    #contact{
+    margin-top: 600px;
+  }
+
 }
 
 #Achievement .h1 h1 {
